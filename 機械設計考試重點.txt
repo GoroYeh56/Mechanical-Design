@@ -1,0 +1,26 @@
+CLosed Book
+11-1
+11-2
+11-3公式 : Loading和壽命的關係，90%、90幾趴realiability
+Combined realiability 90 幾趴
+選軸承table 11-2 11-3
+11-7不用看
+11-8例題要看
+11-9例題
+11-11，12要看
+作業要看
+
+12-1 hydro dynamic bearing，5種潤滑方式、區別、那些地方會用到
+12-2，3 petroff's eqn、stable lubrication 薄膜、後模差別
+12-7 圖表計算
+
+12-9不考
+
+12-11 
+12-12loads and material bearing type
+看到653夜結束
+
+16-12 flywheeel 使用場合
+
+Open Book
+另外一本課本計算
